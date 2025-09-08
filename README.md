@@ -13,14 +13,16 @@ Built with **Astro + Tailwind CSS**, featuring smooth animations, a reservation 
 - Contact & Google Map
 - Responsive, SEO-friendly, and fast
 
-## Tech Stack
-- [Astro](https://astro.build/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- HTML, CSS, JavaScript (minimal for animations)
-- Form handling via [Formspree](https://formspree.io/) or Astro server endpoint
 
 ## Getting Started
 
 1. Install dependencies:
 ```bash
 npm i
+```
+
+2. run
+
+```bash
+npm run dev
+```
